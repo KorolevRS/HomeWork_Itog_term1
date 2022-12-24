@@ -1,0 +1,15 @@
+D:\Учеба Программист\HomeWork_itog_term1\bin\Debug\net6.0\HomeWork_itog_term1.exe
+D:\Учеба Программист\HomeWork_itog_term1\bin\Debug\net6.0\HomeWork_itog_term1.deps.json
+D:\Учеба Программист\HomeWork_itog_term1\bin\Debug\net6.0\HomeWork_itog_term1.runtimeconfig.json
+D:\Учеба Программист\HomeWork_itog_term1\bin\Debug\net6.0\HomeWork_itog_term1.dll
+D:\Учеба Программист\HomeWork_itog_term1\bin\Debug\net6.0\HomeWork_itog_term1.pdb
+D:\Учеба Программист\HomeWork_itog_term1\obj\Debug\net6.0\HomeWork_itog_term1.csproj.AssemblyReference.cache
+D:\Учеба Программист\HomeWork_itog_term1\obj\Debug\net6.0\HomeWork_itog_term1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба Программист\HomeWork_itog_term1\obj\Debug\net6.0\HomeWork_itog_term1.AssemblyInfoInputs.cache
+D:\Учеба Программист\HomeWork_itog_term1\obj\Debug\net6.0\HomeWork_itog_term1.AssemblyInfo.cs
+D:\Учеба Программист\HomeWork_itog_term1\obj\Debug\net6.0\HomeWork_itog_term1.csproj.CoreCompileInputs.cache
+D:\Учеба Программист\HomeWork_itog_term1\obj\Debug\net6.0\HomeWork_itog_term1.dll
+D:\Учеба Программист\HomeWork_itog_term1\obj\Debug\net6.0\refint\HomeWork_itog_term1.dll
+D:\Учеба Программист\HomeWork_itog_term1\obj\Debug\net6.0\HomeWork_itog_term1.pdb
+D:\Учеба Программист\HomeWork_itog_term1\obj\Debug\net6.0\HomeWork_itog_term1.genruntimeconfig.cache
+D:\Учеба Программист\HomeWork_itog_term1\obj\Debug\net6.0\ref\HomeWork_itog_term1.dll
